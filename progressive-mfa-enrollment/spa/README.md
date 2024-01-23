@@ -12,8 +12,8 @@ To specify the application client ID and domain, make a copy of `auth_config.jso
 
 ```json
 {
-  "domain": "vjayaram-playground.au.auth0.com",
-  "clientId": "Cg2kBqFitUklkFkzjcwIhk2gSWSVzEnq"
+  "domain": "{YOUR_DOMAIN}",
+  "clientId": "{YOUR_CLIENT_ID}"
 }
 ```
 
